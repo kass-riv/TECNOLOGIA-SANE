@@ -1,3 +1,3 @@
-# PASTELERIA-SANE
+# TECNOLOGIA-SANE
 Trabajo de programación I
 :)
