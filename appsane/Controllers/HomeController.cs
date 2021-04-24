@@ -27,6 +27,11 @@ namespace appsane.Controllers
         {
             return View();
         }
+    
+        public IActionResult nosotros()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
