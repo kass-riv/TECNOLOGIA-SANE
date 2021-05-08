@@ -37,6 +37,14 @@ namespace appsane.Controllers
         {
             return View();
         }
+        public IActionResult audifonos()
+        {
+            return View();
+        }
+        public IActionResult celulares()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
