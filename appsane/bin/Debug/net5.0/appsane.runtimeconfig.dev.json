@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Kasandra\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Kasandra\\.nuget\\packages"
+    ]
+  }
+}
