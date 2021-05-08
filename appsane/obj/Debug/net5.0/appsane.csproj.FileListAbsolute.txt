@@ -85,6 +85,9 @@ C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\audifonos.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\catalogo.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\celulares.cshtml.g.cs
+<<<<<<< HEAD
 C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\appsane.dll
 C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\ref\appsane.dll
 C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\appsane.pdb
+=======
+>>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f

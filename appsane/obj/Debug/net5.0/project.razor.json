@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "FilePath": "c:\\Users\\GIAN\\Documents\\TECNOLOGIA-SANE-1\\appsane\\appsane.csproj",
+=======
+  "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\appsane.csproj",
+>>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "5.0",
@@ -15619,16 +15623,26 @@
   "RootNamespace": "appsane",
   "Documents": [
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\GIAN\\Documents\\TECNOLOGIA-SANE-1\\appsane\\Views\\Shared\\ingreso.cshtml",
       "TargetPath": "Views\\Shared\\ingreso.cshtml",
       "FileKind": "mvc"
     },
     {
       "FilePath": "c:\\Users\\GIAN\\Documents\\TECNOLOGIA-SANE-1\\appsane\\Views\\Shared\\_Layout.cshtml",
+=======
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\_Layout.cshtml",
+>>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f
       "TargetPath": "Views\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
     },
     {
+<<<<<<< HEAD
       "FilePath": "c:\\Users\\GIAN\\Documents\\TECNOLOGIA-SANE-1\\appsane\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
       "FileKind": "mvc"
@@ -15686,6 +15700,65 @@
     {
       "FilePath": "c:\\Users\\GIAN\\Documents\\TECNOLOGIA-SANE-1\\appsane\\Views\\Home\\catalogo.cshtml",
       "TargetPath": "Views\\Home\\catalogo.cshtml",
+=======
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\celulares.cshtml",
+      "TargetPath": "Views\\Home\\celulares.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\catalogo.cshtml",
+      "TargetPath": "Views\\Home\\catalogo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\registro.cshtml",
+      "TargetPath": "Views\\Shared\\registro.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\ingreso.cshtml",
+      "TargetPath": "Views\\Shared\\ingreso.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\_LoginPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\audifonos.cshtml",
+      "TargetPath": "Views\\Home\\audifonos.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+>>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f
       "FileKind": "mvc"
     }
   ],
