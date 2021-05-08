@@ -28,20 +28,7 @@ namespace appsane.Controllers
             return View();
         }
     
-                 
-        public IActionResult nosotros()
-        {
-            return View();
-
-        } 
-
-        public IActionResult contactanos()
-        {
-            return View();
-        }
-
-
-          public IActionResult Ingreso()
+                  public IActionResult Ingreso()
         {
             return View();
         }

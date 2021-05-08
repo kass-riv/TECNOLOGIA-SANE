@@ -91,3 +91,5 @@ C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\ref\appsane.d
 C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\appsane.pdb
 =======
 >>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Contactenos\Contacto.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Nosotros\Descripcion.cshtml.g.cs
