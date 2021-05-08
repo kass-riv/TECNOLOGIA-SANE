@@ -100,5 +100,25 @@ body {
   .clients img {
     transition: all 0.4s ease-in-out;
   }
+
+  .section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    color: #b42929;
+  }
+
+  .section-title p {
+    margin-bottom: 0;
+  }
   
   
