@@ -15634,6 +15634,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\celulares.cshtml",
+      "TargetPath": "Views\\Home\\celulares.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\catalogo.cshtml",
+      "TargetPath": "Views\\Home\\catalogo.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
@@ -15666,6 +15676,11 @@
     {
       "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Shared\\_LoginPartial.cshtml",
       "TargetPath": "Views\\Shared\\_LoginPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Kasandra\\Desktop\\project\\TECNOLOGIA-SANE\\appsane\\Views\\Home\\audifonos.cshtml",
+      "TargetPath": "Views\\Home\\audifonos.cshtml",
       "FileKind": "mvc"
     },
     {

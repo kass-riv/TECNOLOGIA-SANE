@@ -82,3 +82,6 @@ C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\appsa
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\appsane.genruntimeconfig.cache
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Shared\ingreso.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Shared\registro.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\audifonos.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\catalogo.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\celulares.cshtml.g.cs
