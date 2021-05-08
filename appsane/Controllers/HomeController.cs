@@ -23,15 +23,46 @@ namespace appsane.Controllers
             return View();
         }
 
-        public IActionResult Privacy()
+        public IActionResult catalogo()
         {
             return View();
         }
     
+                 
         public IActionResult nosotros()
         {
             return View();
+
+        } 
+
+        public IActionResult contactanos()
+        {
+            return View();
         }
+
+
+          public IActionResult Ingreso()
+        {
+            return View();
+        }
+
+         public IActionResult Registro()
+        {
+            return View();
+        }
+
+  
+
+        
+        public IActionResult audifonos()
+        {
+            return View();
+        }
+        public IActionResult celulares()
+        {
+            return View();
+        }
+
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

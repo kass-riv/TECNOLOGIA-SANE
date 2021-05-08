@@ -12,5 +12,7 @@ namespace appsane.Data
             : base(options)
         {
         }
+
+        public object Usuarios { get; internal set; }
     }
 }

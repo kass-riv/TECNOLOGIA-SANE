@@ -69,3 +69,86 @@ body {
   white-space: nowrap;
   line-height: 60px; /* Vertically center the text there */
 }
+
+
+.img{
+  border: none;
+  }
+
+ 
+  .clients {
+    padding: 0;
+  }
+
+/* marcas */
+  
+  .clients .client-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    height: 120px;
+  }
+  
+  .clients .client-logo img {
+    height: 40px;
+  }
+  
+  .clients .client-logo:hover img {
+    transform: scale(1.2);
+  }
+  
+  .clients img {
+    transition: all 0.4s ease-in-out;
+  }
+
+  .section-title {
+    text-align: center;
+    padding-bottom: 30px;
+  }
+  
+  .section-title h2 {
+    font-size: 32px;
+    font-weight: 600;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 20px;
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    color: #b42929;
+  }
+
+  .section-title p {
+    margin-bottom: 0;
+  }
+  
+  
+
+/*
+---------footer--------------------------*/
+
+#footer {
+
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+}
+
+#footer::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #da561a;
+  z-index: 1;
+}
+
+#footer .footer-top {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 80px 0;
+}
+
