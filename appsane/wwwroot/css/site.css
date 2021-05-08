@@ -70,6 +70,7 @@ body {
   line-height: 60px; /* Vertically center the text there */
 }
 
+
 .img{
   border: none;
   }
@@ -122,3 +123,32 @@ body {
   }
   
   
+
+/*
+---------footer--------------------------*/
+
+#footer {
+
+  color: #fff;
+  font-size: 14px;
+  position: relative;
+}
+
+#footer::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  bottom: 0;
+  background: #da561a;
+  z-index: 1;
+}
+
+#footer .footer-top {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+  padding: 80px 0;
+}
+
