@@ -80,8 +80,6 @@ C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\appsa
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\ref\appsane.dll
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\appsane.pdb
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\appsane.genruntimeconfig.cache
-C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Shared\ingreso.cshtml.g.cs
-C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Shared\registro.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\audifonos.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\catalogo.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\celulares.cshtml.g.cs
@@ -93,3 +91,5 @@ C:\Users\GIAN\Documents\TECNOLOGIA-SANE-1\appsane\obj\Debug\net5.0\appsane.pdb
 >>>>>>> d4ee445fb5fb29b8435021c0a537d0fa623c365f
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Contactenos\Contacto.cshtml.g.cs
 C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Nosotros\Descripcion.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\ingreso.cshtml.g.cs
+C:\Users\Kasandra\Desktop\project\TECNOLOGIA-SANE\appsane\obj\Debug\net5.0\Razor\Views\Home\registro.cshtml.g.cs
